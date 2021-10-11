@@ -1,0 +1,24 @@
+{
+  "name": "pcoin",
+  "version": "1.0.0",
+  "description": "\"app for simple cryptocurrency\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "ls",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Preetham-Mukkara/PCoin.git"
+  },
+  "author": "Preetham Mukkara",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "bugs": {
+    "url": "https://github.com/Preetham-Mukkara/PCoin/issues"
+  },
+  "homepage": "https://github.com/Preetham-Mukkara/PCoin#readme"
+}
